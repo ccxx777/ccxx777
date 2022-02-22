@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on everything
-- 📫 Contact me in ins
+- 📫 Contact me in ins cx2286226039
 
 <!---
 ccxx777/ccxx777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
